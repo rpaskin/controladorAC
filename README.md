@@ -17,8 +17,8 @@ O hardware do ar-condicionado possui uma funca que voce pode chamar que e':
 reduz_um_grau()
 
 Esta funcao reduz exatamente um grau na temperatura do ambiente (doh).
-� MUITO IMPORTANTE LEMBRAR QUE CADA CHAMADA DESTA FUNCAO CUSTA O
-EQUIVALENTE A R$ 0,10 para o cliente em energia. Al�m disso, cada vez
+E MUITO IMPORTANTE LEMBRAR QUE CADA CHAMADA DESTA FUNCAO CUSTA O
+EQUIVALENTE A R$ 0,10 para o cliente em energia. Alem disso, cada vez
 que o ar liga (a primeira vez que esta funcao e'chamada na sua funcao)
 o cliente paga R$ 0,50. Este e' o custo de ligar o compressor.
 
